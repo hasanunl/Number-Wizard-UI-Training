@@ -1,0 +1,75 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7270
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.174 seconds
+Platform assembly: C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Asus\Documents\Number Wizard UI Training\Number Wizard UI Training_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.454475 ms
+Level load requested.Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 47.156158 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 266.
+Total: 1.342680 ms (FindLiveObjects: 0.107302 ms CreateObjectMapping: 0.124564 ms MarkObjects: 1.079089 ms  DeleteObjects: 0.028925 ms)
+
+Level load requested.Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.647325 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 1.147203 ms (FindLiveObjects: 0.111967 ms CreateObjectMapping: 0.120365 ms MarkObjects: 0.887344 ms  DeleteObjects: 0.024259 ms)
+
+Level load requested.Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.303049 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 266.
+Total: 1.058095 ms (FindLiveObjects: 0.124564 ms CreateObjectMapping: 0.127829 ms MarkObjects: 0.779575 ms  DeleteObjects: 0.023326 ms)
+
+Level load requested.Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.122255 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 279.
+Total: 1.212051 ms (FindLiveObjects: 0.135294 ms CreateObjectMapping: 0.122231 ms MarkObjects: 0.920001 ms  DeleteObjects: 0.027525 ms)
+
+I want to quit.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1ebc -> priority: 1 
+  Thread -> id: 2060 -> priority: 1 
